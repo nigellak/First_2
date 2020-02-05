@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">First 2</string>
+    <string name="Confirm">Confirm</string>
+    <string name="enter_your_username">enter your username</string>
+    <string name="enter_your_email_address">enter your email address</string>
+    <string name="enter_your_phone_number">enter your phone number</string>
+    <string name="please_enter_your_password">please enter your password</string>
+</resources>
